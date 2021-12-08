@@ -1,0 +1,70 @@
+
+  h1 {
+    text-align: center;
+    color: blue;
+  }
+
+  div p {
+    background-color:#FFFF00;
+  }
+
+  /* unvisited link */
+  a:link {
+    color: #FF0000;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: #4B9CD3;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: #FF00FF;
+  }
+  
+  /* selected link */
+  a:active {
+    color:palevioletred;
+  }
+
+  h1 {
+    font-size:40px;
+  }
+
+  h1 {
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+  p.index {
+    font-family:'Times New Roman', Times, serif;
+  }
+
+  p.Education {
+    font-family:'Times New Roman', Times, serif;
+  }
+
+  p.contact {
+    font-family:'Times New Roman', Times, serif;
+  }
+
+  div {
+    height: 620px;
+    width: 50%;
+    background-color: powderblue;
+  }
+
+  h1 {
+    border-style: dotted;
+    border-width: 2px;
+  }
+
+  #title1 {
+    font-style: italic;
+    background-color: transparent;
+  }
+  
+  #title2 {
+    font-style: italic;
+    background-color: transparent;
+  }
